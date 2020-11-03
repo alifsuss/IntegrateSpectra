@@ -5,5 +5,6 @@ his R script would integrate your Spectra provides the 1st column is wavelength 
 this script would work if you have delayed time file containing: 1st column as the delayed time and 2nd column as the collection durations
 This script may produce figures plotted as linear-logarithmic also logarithmic-logarithmic and a csv file
 ENJOY!
-#Spectra Integration
+
+# Spectra Integration
 Feel free to comment and give me constructive feedback!
